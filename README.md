@@ -28,11 +28,13 @@ To get started with this project, follow these steps:
 5. Run the frontend:
    ```bash
    npm start
-   
+   ```
 This will start the frontend server, and you can access the application in your web browser at http://localhost:3002.
+
 6. Run the backend server:
    ```bash
    node server.js
+   ```
 
 
 Website Demo: https://drive.google.com/drive/u/3/folders/1tl7r6DUwXA-7CqhBL_kbETT0lml1-Bwf
