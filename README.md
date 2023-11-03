@@ -13,7 +13,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/clean-city-watch/DumpBuster_Website.git)>
 2. Navigate to the project directory:
    cd project-directory
 3. Install the required dependencies for the frontend:
