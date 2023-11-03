@@ -1,3 +1,32 @@
+# DumpBuster
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js and npm installed on your system.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone <repository_url>
+2. Navigate to the project directory:
+   cd project-directory
+3. Install the required dependencies for the frontend:
+    npm install
+Before you run the frontend make sure to set the port to 3002 using the following command:
+  $env:PORT = 3002
+5. Run the frontend:
+   npm start
+This will start the frontend server, and you can access the application in your web browser at http://localhost:3002.
+6. Run the backend server:
+   node server.js
+
+
 Website Demo: https://drive.google.com/drive/u/3/folders/1tl7r6DUwXA-7CqhBL_kbETT0lml1-Bwf
 
 ![screencapture-localhost-3000-2023-11-03-19_20_48](https://github.com/clean-city-watch/DumpBuster_Website/assets/90612970/9f55d9a2-211d-4e62-849d-1fe082209b03)
