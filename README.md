@@ -17,19 +17,20 @@ To get started with this project, follow these steps:
 2. Navigate to the project directory:
    ``` bash
    cd project-directory
-4. Install the required dependencies for the frontend:
+3. Install the required dependencies for the frontend:
    ```bash
     npm install
-Before you run the frontend make sure to set the port to 3002 using the following command:
+4. Before you run the frontend make sure to set the port to 3002 using the following command:
    ```bash
     $env:PORT = 3002
    ```
 
-6. Run the frontend:
+5. Run the frontend:
    ```bash
    npm start
+   
 This will start the frontend server, and you can access the application in your web browser at http://localhost:3002.
-7. Run the backend server:
+6. Run the backend server:
    ```bash
    node server.js
 
