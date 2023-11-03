@@ -37,7 +37,7 @@ This will start the frontend server, and you can access the application in your 
    ```
 
 
-Website Demo: https://drive.google.com/drive/u/3/folders/1tl7r6DUwXA-7CqhBL_kbETT0lml1-Bwf
+Website Demo: https://drive.google.com/file/d/1Q8hz1LgUGxvn6yMkNYd4xHESuW-2CyMu/view?usp=drive_link
 
 ![screencapture-localhost-3000-2023-11-03-19_20_48](https://github.com/clean-city-watch/DumpBuster_Website/assets/90612970/9f55d9a2-211d-4e62-849d-1fe082209b03)
 ![screencapture-localhost-3000-report-2023-11-03-19_21_25](https://github.com/clean-city-watch/DumpBuster_Website/assets/90612970/130b0c97-9a15-48eb-831d-c6594a36b1fc)
