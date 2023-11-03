@@ -21,16 +21,16 @@ To get started with this project, follow these steps:
    ```bash
     npm install
 Before you run the frontend make sure to set the port to 3002 using the following command:
- ```bash
+   ```bash
     $env:PORT = 3002
-```
+   ```
 
 6. Run the frontend:
    ```bash
    npm start
 This will start the frontend server, and you can access the application in your web browser at http://localhost:3002.
 7. Run the backend server:
-```bash
+   ```bash
    node server.js
 
 
